@@ -32,7 +32,7 @@ The initial idea was based on a tutorial, but the code was modified and adapted 
 ## How to run
 1. Clone the repository  
 2. Navigate to the project folder  
-3. Run the Python file, for example:
+3. Run the Python file, for example: python counter.py
 
 # What I learned
 - Structuring a Python project
